@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="CacheAlgorithm_jar4">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../CacheAlgorithm/out/artifacts/CacheAlgorithm_jar4" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../CacheAlgorithm/out/artifacts/CacheAlgorithm_jar4" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../CacheAlgorithm/out/artifacts/CacheAlgorithm_jar4" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../CacheAlgorithm/out/artifacts/CacheAlgorithm_jar4" recursive="false" type="SOURCES" />
+  </library>
+</component>
