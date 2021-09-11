@@ -6,7 +6,7 @@ In this project, I built a system to manage a memory unit. The task of the memor
 
 Simulate RAM (client), Hard disc (server) and MMU work when page-fault or page-replacement accure.
 
-When you first initialize the unit, you choose a replacement algorithm for the MMU (in the ).
+When you first initialize the unit, you choose a replacement algorithm for the MMU (in the CacheUnitService file).
 
 This project uses Client-Server, OOP (Java), GUI (Swing).
 
